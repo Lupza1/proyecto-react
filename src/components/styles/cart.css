@@ -1,0 +1,18 @@
+body{
+    margin: 1rem, 0rem, 0rem, 0rem;
+    background: url("../img/main-fondo.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+a, body{
+    color: black;
+    text-emphasis: none;
+    text-align: center;
+}
+.btn-group{
+    display: inline;
+}
+.container{
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+}

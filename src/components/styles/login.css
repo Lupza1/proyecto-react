@@ -1,0 +1,15 @@
+.body-login{
+    background: url('../img/login-fondo.jpg');
+    background-size: cover;
+    color: white;
+    margin-top: -4.40%;
+}
+form{
+    text-align: center;
+}
+label{
+    margin-top: 10rem;
+}
+.btn-group{
+    display: none;
+}
